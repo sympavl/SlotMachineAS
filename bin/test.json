@@ -1,0 +1,20 @@
+{
+	"myJSONExample": 
+	{
+		"id_JSONExample_001":
+		{
+			"earnings":10,
+			"violations":1
+		}, 
+		"id_JSONExample_002": 
+		{
+			"earnings":25,
+			"violations":3
+		}, 
+        "id_JSONExample_003": 
+		{
+			"earnings":40,
+			"violations":2
+		}
+	}
+} 
